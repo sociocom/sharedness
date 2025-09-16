@@ -1,6 +1,6 @@
 # Sharedness Index Project
 
-Repository for the paper _“Social harmony at work: A sharedness index linking team atmosphere to individual well-being in a Japanese company”
+Repository for the paper “Social harmony at work: A sharedness index linking team atmosphere to individual well-being in a Japanese company”
 
 ---
 
