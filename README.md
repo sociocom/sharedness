@@ -1,4 +1,4 @@
-# Sharedness Project Repository
+# Repository for the paper "Social harmony at work: A sharedness index linking team atmosphere to individual well-being in a Japanese company"
 
 This repository contains the minimal anonymized datasets and analysis scripts used to reproduce the results reported in the manuscript:
 
