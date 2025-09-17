@@ -1,4 +1,4 @@
-# Repository for the paper “Social harmony at work: A sharedness index linking team atmosphere to individual well-being in a Japanese company”
+# Supporting Data and Code for “Social harmony at work: A sharedness index linking team atmosphere to individual well-being in a Japanese company”
 
 ## Directory Structure
 
